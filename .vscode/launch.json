@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server",
+            "server": "http://TestVSCguide",
+            "serverInstance": "NAV",
+            "authentication": "Windows",
+            "startupObjectType": "Page",
+            "breakOnError": true
+        }
+    ]
+}

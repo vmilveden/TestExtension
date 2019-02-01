@@ -1,5 +1,4 @@
-pageextension 50100 "Sales Invoice Extension" extends "Sales Invoice"
-//FP1.00 2019-02-01 - Victor Milveden
+pageextension 50102 "Sales Credit Memo Extension" extends "Sales Credit Memo"
 {
     layout
     {
